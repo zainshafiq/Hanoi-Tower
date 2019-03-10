@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 	int j = 0;
 	int hold = 0;
 
-	cout << "\n\n  WELCOME TO THE TOWER OF HANOI PUZZLE!! \2  \3  \1 \n\n";
+	cout << "\n\n WELCOME TO THE TOWER OF HANOI PUZZLE!! \2  \3  \1 \n\n";
 	printf("\n\n  The Towers of Hanoi: %d Disks\n\n", DISKS);
 
 	for (i = 0; i < 3; ++i)
